@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply
+        font-['Inter']
+        text-[#1A2E35]
+        bg-[#E0DFFF]
+}
